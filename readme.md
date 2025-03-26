@@ -1,6 +1,4 @@
-# Learn about git and githun
+# Learn about git and github
 
-subscrbe me on youtube
 
-```javascript
 console.log('hello world);
